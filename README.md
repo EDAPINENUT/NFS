@@ -12,7 +12,7 @@ conda activate nfs_env
 ```
 
 ### Preparing the datasets
-Download the datasets from [Google Drive](https://drive.google.com/drive/folders/1RthMz7xSItlCtTn9FRk9fxckl8z6HDpK?usp=sharing), including Burgers equation, KdV equation and NS equation. Copy them to `./datasets/`.
+Download the datasets from [Google Drive](https://drive.google.com/drive/folders/1RthMz7xSItlCtTn9FRk9fxckl8z6HDpK?usp=sharing), including Burgers equation, KdV equation and NS equation. Copy them to `./dataset/`.
 
 ### Training the Model
 
